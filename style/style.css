@@ -1,0 +1,75 @@
+
+.btn1{
+    background-color: #80D19C;
+}
+
+.btn1:hover{
+    background-color: transparent;
+    border-color: #80D19C;
+    color: #80D19C;
+}
+
+.principal{
+    min-height: 60vh;
+}
+.title{
+    font-weight: 600;
+}
+
+.logo-text{
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #80D19C;
+}
+
+.logo-text:hover{
+    color: #00A337;
+}
+
+.my-mt{
+    margin: 100px;
+}
+
+.card{
+    background-color: #80D19C;
+
+}
+
+.btn-cards:hover{
+    background-color: transparent;
+    border-color: black;
+    color: black;
+}
+
+.i-card{
+    font-size: 60px;
+    margin: 24px 0;
+    transition: .5s;
+}
+
+.card{
+    transition: .5s;
+}
+
+.card:hover{
+    background-color: #00A337;
+}
+
+.card:hover .i-card{
+    transform: scale(1.5);
+}
+
+.cadastrar, .bg-contato{
+    background-color: #00a3362d;
+}
+
+
+.i-contato{
+    font-size: 60px;
+    margin: 24px 0;
+    transition: .5s;
+}
+
+.i-contato:hover{
+    transform: scale(1.5);
+}
